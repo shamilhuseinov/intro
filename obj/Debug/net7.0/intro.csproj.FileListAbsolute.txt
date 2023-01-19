@@ -1,0 +1,15 @@
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.csproj.AssemblyReference.cache
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.AssemblyInfoInputs.cache
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.AssemblyInfo.cs
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/intro/intro/bin/Debug/net7.0/intro
+/Users/samil/Projects/intro/intro/bin/Debug/net7.0/intro.deps.json
+/Users/samil/Projects/intro/intro/bin/Debug/net7.0/intro.runtimeconfig.json
+/Users/samil/Projects/intro/intro/bin/Debug/net7.0/intro.dll
+/Users/samil/Projects/intro/intro/bin/Debug/net7.0/intro.pdb
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.dll
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/refint/intro.dll
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.pdb
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/intro.genruntimeconfig.cache
+/Users/samil/Projects/intro/intro/obj/Debug/net7.0/ref/intro.dll
